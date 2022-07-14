@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/XuanTrung2303/Play-Cas-Music.git/static/css/main.607d504d.css",
+    "main.js": "/XuanTrung2303/Play-Cas-Music.git/static/js/main.7c7326a8.js",
+    "static/js/787.ded37e57.chunk.js": "/XuanTrung2303/Play-Cas-Music.git/static/js/787.ded37e57.chunk.js",
+    "index.html": "/XuanTrung2303/Play-Cas-Music.git/index.html",
+    "main.607d504d.css.map": "/XuanTrung2303/Play-Cas-Music.git/static/css/main.607d504d.css.map",
+    "main.7c7326a8.js.map": "/XuanTrung2303/Play-Cas-Music.git/static/js/main.7c7326a8.js.map",
+    "787.ded37e57.chunk.js.map": "/XuanTrung2303/Play-Cas-Music.git/static/js/787.ded37e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.607d504d.css",
+    "static/js/main.7c7326a8.js"
+  ]
+}
